@@ -1,1 +1,1 @@
-# My github site to show my portfolios!
+# My own github site to show projects!
