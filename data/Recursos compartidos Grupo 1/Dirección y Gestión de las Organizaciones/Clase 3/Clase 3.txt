@@ -1,0 +1,23 @@
+DGO - Clase 3
+*************
+standars -> son clave para que los agentes economicos puedan operar de forma eficiente
+	de jure -> IEEE
+	de facto -> RFCs
+	
+	El Dilema del Innovador: hay un lider en un mercado y aparece una nueva tecnologia disruptiva, la lógica dice que estos lideres tienen la mayor ventaja para desarollarla.
+							 esto no necesariamente se cumple, ya que a un nuevo competidor puede resultarle más fácil adaptarse y desarollar esta nueva tech.
+							 
+							 Christensen sugiere separar completamente los negocios si la tecnología es muy disruptiva
+							 
+			Samsung hizo esto último con Smart Things.
+			
+	Plataforma: terceros pueden desarrollar sobre mi producto, y sus clientes terminan siendo clientes de MIS productos
+	
+	Sunk cost fallacy: siempre debo evaluar los costos FUTUROS y los riesgos FUTUROS, no debo considerar las inversiones pasadas
+	
+	*** Hay factores culturales y de gestión que favorecen el escalamiento de compromiso y la falacia del costo hundido. ***
+	
+	
+Organización
+************
+
