@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Other environment-specific files
+.env.local
+.env.*.local
+
+# Files ignored
+paths.txt
